@@ -1,4 +1,4 @@
-//! PerryTS/ts Native Messaging host
+//! PerryTS/perry Native Messaging host
 //! guest271314 11-9-2026
 
 import { readSync, writeSync } from "node:fs";
