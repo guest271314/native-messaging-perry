@@ -1,0 +1,7 @@
+{
+  "name": "nm_perry",
+  "description": "PerryTS/perry Native Messaging Host",
+  "path": "/ABSOLUTE/PATH/TO/native-messaging-perry/nm_perry",
+  "type": "stdio",
+  "allowed_origins": []
+}
